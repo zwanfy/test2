@@ -1,0 +1,12 @@
+   #square {
+            width: 100px;
+            height: 100px;
+            background-color: blue;
+            margin-bottom: 10px;
+        }
+   #counter {
+            font-size: 48px;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+        }
